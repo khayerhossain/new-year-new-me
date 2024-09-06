@@ -46,3 +46,50 @@ body {
     background-color: #F15B22;
     text-align: right;
 }
+
+.list-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.checklist-area {
+    width: 40%;
+    margin-right: 90px;
+    padding-right: 50px;
+    padding-top: 95px;
+}
+
+.person-img img {
+    width: 450px;
+    margin-left: 55px;
+    padding-left: 45px;
+}
+
+.checklist-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+ul>li {
+    list-style: none;
+}
+
+.plans-title {
+    text-align: center;
+    font-size: 23px;
+    color: #151414;
+    font-weight: 600;
+    padding-top: 90px;
+}
+
+.icon-content {
+    display: flex;
+    justify-content: space-between;
+    margin: 12%;
+    padding-bottom: 110%;
+}
+
+.icons {}
